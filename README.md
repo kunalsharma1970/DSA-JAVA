@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 <!---LeetCode Topics End-->
