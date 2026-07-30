@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3536-maximum-product-of-two-digits) |
+| [3945-digit-frequency-score](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+## Hash Table
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
