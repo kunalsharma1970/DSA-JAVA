@@ -14,11 +14,11 @@ class Solution {
                 return b.second-a.second;
             }
         );
-        HashMap<Character,Integer> map=new HashMap<>();
+        HashMap<Character,Integer> map = new HashMap<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             if(map.containsKey(ch)) map.put(ch,map.get(ch)+1);
-            else  map.put(ch,1);
+            else map.put(ch,1);
         }
         for(Map.Entry<Character,Integer>e:map.entrySet()){
             int freq=e.getValue();
@@ -27,22 +27,19 @@ class Solution {
             pq.add(curr);
         }
         StringBuilder sb=new StringBuilder();
-        int seat=0;
         while(!pq.isEmpty()){
             Pair p1=pq.poll();
-            if(sb.length()==0 ||sb.charAt(seat-1)!=p1.second){
+            if(sb.length()==0 || sb.charAt(sb.length()-1)!=p1.second){
                 sb.append(p1.second);
                 p1.first--;
                 if(p1.first!=0) pq.add(p1);
-                seat++;
             }else{
                 if(pq.size()==0) return "";
-                Pair p2=pq.poll();
+                Pair  p2=pq.poll();
                 sb.append(p2.second);
                 p2.first--;
                 if(p2.first!=0) pq.add(p2);
                 pq.add(p1);
-                seat++;
             }
         }
         return sb.toString();
