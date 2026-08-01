@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3536-maximum-product-of-two-digits) |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [3945-digit-frequency-score](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
+## String
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
