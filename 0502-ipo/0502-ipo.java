@@ -18,7 +18,7 @@ class Solution {
         int idx=0;
         while(k>0){
             while(idx<n){
-                if(projects[idx].first>w) break;
+                if(projects[idx].first>w)break;
                 pq.add(projects[idx].second);
                 idx++;
             }
