@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0986-interval-list-intersections) |
+| [1768-merge-strings-alternately](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 ## Sweep Line
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
+| [1768-merge-strings-alternately](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 ## Game Theory
 |  |
 | ------- |
