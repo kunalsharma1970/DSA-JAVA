@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0986-interval-list-intersections) |
+| [1089-duplicate-zeros](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 ## Sweep Line
 |  |
