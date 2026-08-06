@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -185,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
