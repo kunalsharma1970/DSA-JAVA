@@ -2,6 +2,7 @@ class Solution {
     public static void fun(int n,int k,int start,List<List<Integer>>list,List<Integer>temp){
         if(temp.size()==k){
             list.add(new ArrayList<>(temp));
+            return;
         }
         for(int i=start;i<=n;i++){
             temp.add(i);
