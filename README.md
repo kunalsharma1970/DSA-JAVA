@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0078-subsets) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0877-stone-game) |
 ## Greedy
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
