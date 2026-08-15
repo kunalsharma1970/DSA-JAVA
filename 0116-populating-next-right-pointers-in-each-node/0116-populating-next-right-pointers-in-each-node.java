@@ -27,10 +27,10 @@ class Solution {
         if(root==null) return null;
         q.add(root);
         while(!q.isEmpty()){
-            int size=q.size();
+            int levelsize=q.size();
             Node prev=null;
-            while(size-->0){
-                Node t=q.poll();
+            while(levelsize-->0){
+                Node t= q.poll();
                 if(prev!=null){
                     prev.next=t;
                 }
