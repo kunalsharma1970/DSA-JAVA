@@ -14,22 +14,51 @@
  * }
  */
 class Solution {
-    List<Integer> list = new ArrayList<>();
+
+    Stack<TreeNode> asc= new Stack<>();
+
+    Stack<TreeNode> dsc= new Stack<>();
+
     public boolean findTarget(TreeNode root, int k) {
-        inorder(root);
-        int left=0; int right=list.size()-1;
-        while(left<right){
-            int sum=list.get(left)+list.get(right);
+        if(root==null) return false;
+        TreeNode t= root;
+        while(t!=null){
+            asc.push(t);
+            t=t.left;
+        }
+        t=root;
+        while(t!=null){
+            dsc.push(t);
+            t=t.right;
+        }
+        TreeNode i=getSmall();
+        TreeNode j=getBig();
+        while(i!=null && j!=null && i!=j ){
+            int sum=i.val+j.val;
             if(sum==k) return true;
-            else if(sum<k) left++;
-            else right--;
+            else if(sum<k) i=getSmall();
+            else j=getBig();
         }
         return false;
     }
-    public void inorder(TreeNode root){
-        if(root==null) return;
-        inorder(root.left);
-        list.add(root.val);
-        inorder(root.right);
+    public TreeNode getSmall(){
+        if(asc.isEmpty()) return null;
+        TreeNode small= asc.pop();
+        TreeNode rightchild=small.right;
+        while(rightchild!=null){
+            asc.push(rightchild);
+            rightchild=rightchild.left;
+        }
+        return small;
+    }
+    public TreeNode getBig(){
+        if(dsc.isEmpty()) return null;
+        TreeNode big=dsc.pop();
+        TreeNode leftchild=big.left;
+        while(leftchild!=null){
+            dsc.push(leftchild);
+            leftchild=leftchild.right;
+        }
+        return big;
     }
 }
