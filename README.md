@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0917-reverse-only-letters](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0917-reverse-only-letters) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
