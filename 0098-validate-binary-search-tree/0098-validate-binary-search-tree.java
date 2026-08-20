@@ -14,11 +14,12 @@
  * }
  */
 class Solution {
-    List<Integer> list = new ArrayList<>();
+    List<Integer> list= new ArrayList<>();
     public boolean isValidBST(TreeNode root) {
         inorder(root);
         for(int i=1;i<list.size();i++){
-            if(list.get(i)<=list.get(i-1)) return false;
+            if(list.get(i-1)>=list.get(i)) return false;
+            else continue;
         }
         return true;
     }
