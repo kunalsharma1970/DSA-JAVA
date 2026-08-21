@@ -18,17 +18,19 @@ class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
         if(root==null) return false;
         int sum=0;
-        fun(root,targetSum,sum);
+        fun(root,sum,targetSum);
         return res;
     }
-    public void fun(TreeNode root,int targetSum,int sum){
+    public void fun(TreeNode root,int sum,int targetSum){
         if(root==null) return;
         sum+=root.val;
         if(root.left==null && root.right==null){
-            if(sum==targetSum) res=true;
-            return;
+            if(sum==targetSum){
+                res=true;
+                return;
+            }
         }
-        fun(root.left,targetSum,sum);
-        fun(root.right,targetSum,sum);
+        fun(root.left,sum,targetSum);
+        fun(root.right,sum,targetSum);
     }
 }
