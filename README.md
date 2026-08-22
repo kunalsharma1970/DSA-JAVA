@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [3536-maximum-product-of-two-digits](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3945-digit-frequency-score) |
 ## Sorting
