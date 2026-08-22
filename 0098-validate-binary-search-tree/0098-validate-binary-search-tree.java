@@ -14,19 +14,22 @@
  * }
  */
 class Solution {
-    List<Integer> list= new ArrayList<>();
+    TreeNode prev=null;
+    boolean ans=true;
     public boolean isValidBST(TreeNode root) {
         inorder(root);
-        for(int i=1;i<list.size();i++){
-            if(list.get(i-1)>=list.get(i)) return false;
-            else continue;
-        }
-        return true;
+        return ans;
     }
     public void inorder(TreeNode root){
         if(root==null) return;
         inorder(root.left);
-        list.add(root.val);
+        if(prev==null) prev=root;
+        else{
+            if(root.val<=prev.val){
+                ans=false;
+            }
+            prev=root;
+        }
         inorder(root.right);
     }
 }
