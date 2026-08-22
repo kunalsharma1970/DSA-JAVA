@@ -14,25 +14,25 @@
  * }
  */
 class Solution {
+    List<Integer> list= new ArrayList<>();
     public int sumNumbers(TreeNode root) {
-        List<Integer> list= new ArrayList<>();
         if(root==null) return 0;
         int sum=0;
-        fun(root,sum,list);
-        int totalSum=0;
+        fun(root,sum);
+        int total=0;
         for(int i=0;i<list.size();i++){
-            totalSum+=list.get(i);
+            total+=list.get(i);
         }
-        return totalSum;
+        return total;
     }
-    public void fun(TreeNode root,int sum,List<Integer>list){
+    public void fun(TreeNode root,int sum){
         if(root==null) return;
         sum=sum*10+root.val;
-        if(root.left==null && root.right==null) {
+        if(root.left==null && root.right==null){
             list.add(sum);
             return;
         }
-        fun(root.left,sum,list);
-        fun(root.right,sum,list);
+        fun(root.left,sum);
+        fun(root.right,sum);
     }
 }
