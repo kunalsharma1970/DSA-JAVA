@@ -14,16 +14,17 @@
  * }
  */
 class Solution {
-    public static boolean fun(TreeNode root1,TreeNode root2){
-        if(root1==null && root2==null) return true;
-        if(root1==null && root2!=null) return false;
-        if(root1!=null && root2==null) return false;
-        if(root1.val!=root2.val) return false;
-        boolean r1=fun(root1.left,root2.right);
-        boolean r2=fun(root1.right,root2.left);
-        return r1 && r2;
-    }
     public boolean isSymmetric(TreeNode root) {
-        return fun(root.left,root.right);
+        if(root==null) return true;
+        return isSym(root.left,root.right);
+    }
+    public boolean isSym(TreeNode p,TreeNode q){
+        if(p==null && q==null) return true;
+        if(p!=null && q==null) return false;
+        if(p==null && q!=null) return false;
+        if(p.val!=q.val) return false;
+        boolean left=isSym(p.left,q.right);
+        boolean right=isSym(p.right,q.left);
+        return left&&right;
     }
 }
