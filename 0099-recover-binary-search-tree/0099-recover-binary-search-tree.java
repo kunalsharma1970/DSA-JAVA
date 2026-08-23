@@ -14,39 +14,41 @@
  * }
  */
 class Solution {
+    TreeNode prev=null;
+    TreeNode g1first=null;
+    TreeNode g1second=null;
+    TreeNode g2first=null;
+    TreeNode g2second=null;
+    int galat=0;
     public void recoverTree(TreeNode root) {
-        List<TreeNode>list= new ArrayList<>();
-        inorder(root,list);
-        int galat=0;
-        TreeNode galat1first=null; TreeNode galat1second=null;
-        TreeNode galat2first=null; TreeNode galat2second=null;
-        for(int i=0;i<list.size()-1;i++){
-            if(list.get(i).val>list.get(i+1).val){
-                if(galat==0){
-                    galat1first=list.get(i);
-                    galat1second=list.get(i+1);
-                    galat++;
-                }else{
-                    galat2first=list.get(i);
-                    galat2second=list.get(i+1);
-                    galat++;
-                }
-            }
-        }
+        inorder(root);
         if(galat==1){
-                int temp=galat1first.val;
-                galat1first.val=galat1second.val;
-                galat1second.val=temp;
+            int temp=g1first.val;
+            g1first.val=g1second.val;
+            g1second.val=temp;
         }else{
-                int temp=galat1first.val;
-                galat1first.val=galat2second.val;
-                galat2second.val=temp;
+            int temp=g1first.val;
+            g1first.val=g2second.val;
+            g2second.val=temp;
         }
     }
-    public void inorder(TreeNode root,List<TreeNode>list){
+    public void inorder(TreeNode root){
         if(root==null) return;
-        inorder(root.left,list);
-        list.add(root);
-        inorder(root.right,list);
+        inorder(root.left);
+        if(prev==null) prev=root;
+        else{
+            if(root.val<prev.val){
+                if(galat==0){
+                    g1first=prev;
+                    g1second=root;
+                }else{
+                    g2first=prev;
+                    g2second=root;
+                }
+                galat++;
+            }
+            prev=root;
+        }
+        inorder(root.right);
     }
 }
