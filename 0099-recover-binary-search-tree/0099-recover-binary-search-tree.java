@@ -21,7 +21,7 @@ class Solution {
     TreeNode g2second=null;
     int galat=0;
     public void recoverTree(TreeNode root) {
-        inorder(root);
+        fun(root);
         if(galat==1){
             int temp=g1first.val;
             g1first.val=g1second.val;
@@ -32,12 +32,12 @@ class Solution {
             g2second.val=temp;
         }
     }
-    public void inorder(TreeNode root){
+    public void fun(TreeNode root){
         if(root==null) return;
-        inorder(root.left);
+        fun(root.left);
         if(prev==null) prev=root;
         else{
-            if(root.val<prev.val){
+            if(root.val<=prev.val){
                 if(galat==0){
                     g1first=prev;
                     g1second=root;
@@ -49,6 +49,6 @@ class Solution {
             }
             prev=root;
         }
-        inorder(root.right);
+        fun(root.right);
     }
 }
