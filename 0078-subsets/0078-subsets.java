@@ -1,17 +1,17 @@
 class Solution {
-    public static void AllSubsets(int[]nums,int start,List<List<Integer>>list,List<Integer>temp){
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> ans= new ArrayList<>();
+        gen(nums,0,ans,new ArrayList<>());
+        return ans;
+    }
+    public void gen(int []nums,int start,List<List<Integer>> ans,List<Integer>list){
         if(start==nums.length){
-            list.add(new ArrayList<>(temp));
+            ans.add(new ArrayList<>(list));
             return;
         }
-        temp.add(nums[start]);
-        AllSubsets(nums,start+1,list,temp);
-        temp.remove(temp.size()-1);
-        AllSubsets(nums,start+1,list,temp);
-    }
-    public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> list= new ArrayList<>();
-        AllSubsets(nums,0,list,new ArrayList<>());
-        return list;
+        list.add(nums[start]);
+        gen(nums,start+1,ans,list);
+        list.remove(list.size()-1);
+        gen(nums,start+1,ans,list);
     }
 }
