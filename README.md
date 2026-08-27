@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sweep Line
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0917-reverse-only-letters](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Game Theory
 |  |
