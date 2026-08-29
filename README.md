@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0877-stone-game) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0257-binary-tree-paths) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0077-combinations) |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
