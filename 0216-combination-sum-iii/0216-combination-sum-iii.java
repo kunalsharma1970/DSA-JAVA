@@ -1,20 +1,22 @@
 class Solution {
-    public static void fun(int start,int k,int n,List<List<Integer>>list,List<Integer>temp,int sum){
-        if(temp.size()==k && sum==n){
-            list.add(new ArrayList<>(temp));
+    public List<List<Integer>> combinationSum3(int k, int n) {
+        List<List<Integer>> ans= new ArrayList<>();
+        int num=9;
+        int sum=0;
+        fun(num,1,k,n,sum,ans,new ArrayList<>());
+        return ans;
+    }
+    public void fun(int num,int start,int k,int n,int sum,List<List<Integer>>ans,List<Integer>list){
+        if(list.size()==k && sum==n){
+            ans.add(new ArrayList<>(list));
             return;
         }
-        for(int i=start;i<=9;i++){
+        for(int i=start;i<=num;i++){
             sum+=i;
-            temp.add(i);
-            fun(i+1,k,n,list,temp,sum);
-            temp.remove(temp.size()-1);
+            list.add(i);
+            fun(num,i+1,k,n,sum,ans,list);
             sum-=i;
+            list.remove(list.size()-1);
         }
-    }
-    public List<List<Integer>> combinationSum3(int k, int n) {
-        List<List<Integer>> list= new ArrayList<>();int sum=0;
-        fun(1,k,n,list,new ArrayList<Integer>(),sum);
-        return list;
     }
 }
