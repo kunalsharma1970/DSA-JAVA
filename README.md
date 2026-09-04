@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
 ## Directed Acyclic Graph
 |  |
