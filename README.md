@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1089-duplicate-zeros) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0994-rotting-oranges) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
