@@ -9,9 +9,8 @@ class Solution {
     }
     public int[]x={-1,1,0,0};
     public int[]y={0,0,-1,1};
-
     public int orangesRotting(int[][] grid) {
-        Queue<Pair>q=new LinkedList<>();
+        Queue<Pair> q= new LinkedList<>();
         int time=0; int fresh=0;
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
@@ -29,12 +28,12 @@ class Solution {
                 int r=p.first;
                 int c=p.second;
                 for(int k=0;k<4;k++){
-                    int row= r+x[k];
+                    int row=r+x[k];
                     int cols=c+y[k];
-                    if(isValid(grid,row,cols) && grid[row][cols]==1){
+                    if(valid(grid,row,cols) && grid[row][cols]==1){
                         q.add(new Pair(row,cols));
-                        grid[row][cols]=0;
                         fresh--;
+                        grid[row][cols]=0;
                     }
                 }
             }
@@ -42,8 +41,8 @@ class Solution {
         if(fresh>0) return -1;
         return time;
     }
-    public boolean isValid(int[][]grid,int r,int c){
-        if(r<0||r>=grid.length||c<0||c>=grid[0].length) return false;
+    public boolean valid(int[][]arr,int r,int c){
+        if(r<0 || r>=arr.length || c<0 || c>=arr[0].length) return false;
         return true;
     }
 }
