@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0057-insert-interval) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0113-path-sum-ii) |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
