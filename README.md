@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0993-cousins-in-binary-tree) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -407,11 +409,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -429,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0051-n-queens) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
