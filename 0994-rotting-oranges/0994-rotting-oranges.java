@@ -22,7 +22,7 @@ class Solution {
         while(!q.isEmpty() && fresh>0){
             time++;
             int size=q.size();
-            for(int i=0;i<size;i++){
+            while(size-->0){
                 Pair p=q.poll();
                 int row=p.first;
                 int cols=p.second;
