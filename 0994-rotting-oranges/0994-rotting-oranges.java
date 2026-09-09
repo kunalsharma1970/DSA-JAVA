@@ -8,32 +8,31 @@ class Solution {
         }
     }
     public int[]x={-1,1,0,0};
-    public int[]y={0,0,-1,1};
+    public int[]y={0,0,-1,1}; 
     public int orangesRotting(int[][] grid) {
-        Queue<Pair> q= new LinkedList<>();
         int time=0; int fresh=0;
+        Queue<Pair> q=new LinkedList<>();
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
                 if(grid[i][j]==2){
                     q.add(new Pair(i,j));
-                    grid[i][j]=0;
-                }else if(grid[i][j]==1) fresh++;
+                }if(grid[i][j]==1) fresh++;
             }
         }
         while(!q.isEmpty() && fresh>0){
             time++;
             int size=q.size();
-            while(size-->0){
-                Pair p= q.poll();
-                int r=p.first;
-                int c=p.second;
+            for(int i=0;i<size;i++){
+                Pair p=q.poll();
+                int row=p.first;
+                int cols=p.second;
                 for(int k=0;k<4;k++){
-                    int row=r+x[k];
-                    int cols=c+y[k];
-                    if(valid(grid,row,cols) && grid[row][cols]==1){
-                        q.add(new Pair(row,cols));
+                    int r=row+x[k];
+                    int c=cols+y[k];
+                    if(valid(grid,r,c) && grid[r][c]==1){
+                        grid[r][c]=0;
+                        q.add(new Pair(r,c));
                         fresh--;
-                        grid[row][cols]=0;
                     }
                 }
             }
@@ -41,8 +40,8 @@ class Solution {
         if(fresh>0) return -1;
         return time;
     }
-    public boolean valid(int[][]arr,int r,int c){
-        if(r<0 || r>=arr.length || c<0 || c>=arr[0].length) return false;
+    public boolean valid(int[][]grid,int row,int cols){
+        if(row<0 || cols<0 || row>=grid.length || cols>=grid[0].length) return false;
         return true;
     }
 }
