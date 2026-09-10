@@ -9,15 +9,17 @@ class Solution {
             adj.get(edge[1]).add(edge[0]);
         }
         boolean []visited=new boolean[n];
-        dfs(adj,source,destination,visited);
-        return path;
+        return dfs(adj,source,destination,visited);
+        
     }
     public boolean path=false;
-    public void dfs(List<List<Integer>>adj,int s,int dest,boolean[]visited){
-        if(s==dest)path=true;
+    public boolean dfs(List<List<Integer>>adj,int s,int dest,boolean[]visited){
+        if(s==dest) return true;
         visited[s]=true;
         for(int nbr:adj.get(s)){
-            if(!visited[nbr]) dfs(adj,nbr,dest,visited);
+            if(!visited[nbr])
+            if( dfs(adj,nbr,dest,visited)) return true;
         }
+        return false;
     }
 }
