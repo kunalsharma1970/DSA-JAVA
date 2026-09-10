@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1046-last-stone-weight) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -451,4 +455,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
