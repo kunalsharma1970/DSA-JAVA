@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0877-stone-game) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
