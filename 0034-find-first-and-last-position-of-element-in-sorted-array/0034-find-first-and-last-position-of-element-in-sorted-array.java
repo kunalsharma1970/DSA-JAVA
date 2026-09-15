@@ -22,7 +22,7 @@ class Solution {
             }else if(nums[guess]<target) low1=guess+1;
             else high1=guess-1;
         }
-        if(first!=-1 && second==-1) return new int[]{first,first};
+        // if(first!=-1 && second==-1) return new int[]{first,first};
         return new int[]{first,second};
     }
 }
