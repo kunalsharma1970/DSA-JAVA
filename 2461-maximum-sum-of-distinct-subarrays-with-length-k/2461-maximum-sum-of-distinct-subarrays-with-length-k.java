@@ -1,8 +1,7 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        int low=0; int high=k-1;
-        long sum=0; long res=0;
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int low=0; int high=k-1; long res=0; long sum=0;
         for(int i=0;i<=high;i++){
             if(map.containsKey(nums[i])) map.put(nums[i],map.get(nums[i])+1);
             else map.put(nums[i],1);
