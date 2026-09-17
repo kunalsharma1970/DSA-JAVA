@@ -1,5 +1,12 @@
 class Solution {
-    void fun(int []candidates,int n,int idx,int sum,List<Integer>list,List<List<Integer>>ans,int target){
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        int n=candidates.length;
+        fun(candidates,n,0,0,ans,list,target);
+        return ans;
+    }
+    public void fun(int []candidates,int n,int idx,int sum,List<List<Integer>>ans,List<Integer>list,int target){
         if(idx==n){
             if(sum==target){
                 ans.add(new ArrayList<>(list));
@@ -7,21 +14,13 @@ class Solution {
             }
             return;
         }
-        fun(candidates,n,idx+1,sum,list,ans,target);
-        if(sum+candidates[idx]<=target){
+        fun(candidates,n,idx+1,sum,ans,list,target);
+        if(candidates[idx]+sum<=target){
             list.add(candidates[idx]);
             sum+=candidates[idx];
-            fun(candidates,n,idx,sum,list,ans,target);
+            fun(candidates,n,idx,sum,ans,list,target);
             list.remove(list.size()-1);
             sum-=candidates[idx];
         }
-        return;
-    }
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<Integer>list=new ArrayList<>();
-        List<List<Integer>> ans=new ArrayList<>();
-        int sum=0; int n=candidates.length;int idx=0;
-        fun(candidates,n,idx,sum,list,ans,target);
-        return ans;
     }
 }
