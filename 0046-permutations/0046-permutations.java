@@ -1,26 +1,26 @@
 class Solution {
-    public static void fun(int start,int []nums,List<List<Integer>> list){
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> ans= new ArrayList<>();
+        fun(nums,0,ans);
+        return ans;
+    }
+    public void fun(int []nums,int start,List<List<Integer>>ans){
         if(start==nums.length){
-            ArrayList<Integer> temp= new ArrayList<>();
+            List<Integer>list= new ArrayList<>();
             for(int num:nums){
-                temp.add(num);
+                list.add(num);
             }
-            list.add(new ArrayList<>(temp));
+            ans.add(new ArrayList<>(list));
             return;
         }
         for(int i=start;i<nums.length;i++){
-        int temp=nums[i];
-        nums[i]=nums[start];
-        nums[start]=temp;
-        fun(start+1,nums,list);
-        temp=nums[i];
-        nums[i]=nums[start];
-        nums[start]=temp;
+            int temp=nums[i];
+            nums[i]=nums[start];
+            nums[start]=temp;
+            fun(nums,start+1,ans);
+            temp=nums[i];
+            nums[i]=nums[start];
+            nums[start]=temp;
         }
-    }
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> list= new ArrayList<>();
-        fun(0,nums,list);
-        return list;
     }
 }
