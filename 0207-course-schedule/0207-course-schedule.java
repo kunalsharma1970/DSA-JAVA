@@ -1,32 +1,30 @@
 class Solution {
     public boolean canFinish(int n, int[][] p) {
+        int[]indeg=new int[n];
         List<List<Integer>> adj= new ArrayList<>();
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
         for(int []edge:p){
-            int pre=edge[0];
-            int cou=edge[1];
-            adj.get(pre).add(cou);
+            adj.get(edge[0]).add(edge[1]);
+            indeg[edge[1]]++;
         }
-        boolean []visited=new boolean[n];
-        boolean []path=new boolean[n];
+        Queue<Integer> q= new LinkedList<>();
         for(int i=0;i<n;i++){
-            if(!visited[i]) dfs(adj,i,path,visited);
-        }
-        return !cycle;
-    }
-    public boolean cycle=false;
-    public void dfs(List<List<Integer>>adj,int s,boolean[]path,boolean[]visited){
-        visited[s]=true;
-        path[s]=true;
-        for(int nbr:adj.get(s)){
-            if(!visited[nbr]) dfs(adj,nbr,path,visited);
-            else if(visited[nbr] && path[nbr]){
-                cycle=true;
-                return;
+            if(indeg[i]==0){
+                q.add(i);
             }
         }
-        path[s]=false;
+        int count=0;
+        while(!q.isEmpty()){
+            int val=q.poll();
+            count++;
+            for(int nbr:adj.get(val)){
+                indeg[nbr]--;
+                if(indeg[nbr]==0) q.add(nbr);
+            }
+        }
+        if(count==n) return true;
+        return false;
     }
 }
