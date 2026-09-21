@@ -2,7 +2,7 @@ class Solution {
     class Pair{
         int first;
         int second;
-        Pair(int first,int second){
+        Pair(int first, int second){
             this.first=first;
             this.second=second;
         }
@@ -21,21 +21,19 @@ class Solution {
             if(bfs(grid,guess)){
                 res=guess;
                 high=guess-1;
-            }else{
-                low=guess+1;
-            }
+            }else low=guess+1;
         }
         return res;
     }
-    public boolean bfs(int[][]grid,int money){
+    public boolean bfs(int [][]grid,int money){
         int []x={1,-1,0,0};
         int []y={0,0,1,-1};
         Queue<Pair> q= new LinkedList<>();
-        boolean [][]visited=new boolean[grid.length][grid[0].length];
+        boolean [][]visited= new boolean[grid.length][grid[0].length];
         q.add(new Pair(0,0));
         visited[0][0]=true;
         while(!q.isEmpty()){
-            Pair p= q.poll();
+            Pair p=q.poll();
             int row=p.first;
             int cols=p.second;
             if(row==grid.length-1 && cols==grid[0].length-1) return true;
