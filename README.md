@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0658-find-k-closest-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -441,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -462,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0994-rotting-oranges) |
 ## Directed Acyclic Graph
 |  |
@@ -488,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 ## Recursion
 |  |
 | ------- |
@@ -511,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0210-course-schedule-ii) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
