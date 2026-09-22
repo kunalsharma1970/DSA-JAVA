@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0993-cousins-in-binary-tree) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -491,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
