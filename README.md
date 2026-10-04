@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sweep Line
 |  |
 | ------- |
@@ -545,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
