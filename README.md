@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0917-reverse-only-letters](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1768-merge-strings-alternately](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## DP on Trees
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Union-Find
 |  |
 | ------- |
