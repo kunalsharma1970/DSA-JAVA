@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0216-combination-sum-iii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0778-swim-in-rising-water) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
@@ -566,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kunalsharma1970/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
